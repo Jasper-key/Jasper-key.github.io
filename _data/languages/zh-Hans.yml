@@ -51,6 +51,7 @@ page:
 footer:
   powered: "由 %s 强力驱动"
   theme: 主题
+  icp: 湘ICP备19014650号
 
 counter:
   tag_cloud:
